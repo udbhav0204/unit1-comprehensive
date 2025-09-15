@@ -1,2 +1,4 @@
 Initial content
 Additional content
+Change 1
+Change 2
