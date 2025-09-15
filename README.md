@@ -5,3 +5,4 @@ This repository demonstrates a complete Git workflow:
 - branching, merging
 - partial staging with git add -p
 - remote push to GitHub
+Additional details added
